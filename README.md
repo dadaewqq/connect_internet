@@ -1,7 +1,5 @@
 # 《这本书能让你连接互联网 Ⅱ》
 
-|[![cc](https://i.creativecommons.org/l/by-nc/4.0/80x15.png)](http://creativecommons.org/licenses/by-nc/4.0/)|[![fq-book](https://img.shields.io/badge/%F0%9F%93%96book-fq--book-red.svg?longCache=true&style=flat-square)](https://hoodiearon.github.io/fq-book)|[![docsify](https://img.shields.io/badge/%F0%9F%93%96docs-docsify-brightgreen.svg?longCache=true&style=flat-square)](https://docsify.js.org/)|[![blog](https://img.shields.io/badge/%F0%9F%94%97blog-hoodiearon-lightgrey.svg?longCache=true&style=flat-square)](https://hoodiearon.github.io/)|[![outlook](https://img.shields.io/badge/%F0%9F%93%A7hotmail-@邮箱联系-blue.svg?longCache=true&style=flat-square)](mailto:hoodiearon@outlook.com)|[![telegram](https://img.shields.io/badge/telegram-:me-blue.svg?longCache=true&style=flat-square)](https://t.me/hoodiearon)
-|:-:|:-:|:-:|:-:|:-:|:-:|
 
 ## ***intro***
 
@@ -37,6 +35,8 @@
 
 ## ***usage***
 
+
+
 ### 在线部署
 
 1. fork 《这本书》 到你的 repo
@@ -44,24 +44,10 @@
 3. 在 settings 找到 GitHub Pages 并选择 `master brach/docs folder` 
 4. 访问 `https://你的GitHub用户名.github.io/how_network_works_book` 即可看到效果
 
-<details><summary>这里以 anhoodie 为示例 click me! </summary>
-
-![](https://user-images.githubusercontent.com/35732922/59164863-80b72000-8b45-11e9-8807-849ba56056f4.png)
-
-![](https://user-images.githubusercontent.com/35732922/59164963-e061fb00-8b46-11e9-9647-c827fa784e38.png)
-
-</details>
-
-<!--<details><summary> click me! </summary></details>-->
-
-预览
-
-![Snipaste_2019-06-10_06-18-56](https://user-images.githubusercontent.com/35732922/59165031-d7255e00-8b47-11e9-8a5b-829b61afeb24.png)
 
 
 ### 本地部署
 
- 
 所需环境：[git](https://git-scm.com/)、[node](https://nodejs.org/zh-cn)；安装很简单一直 `下一步` 直到完成安装即可。
 
 * 右击选择`git bash`在命令行中输入 `npm i docsify-cli -g`
@@ -74,6 +60,8 @@
 关于更多详细，请看[docsify官网文档](https://docsify.js.org/)
 
 当然，也可使用[wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf)  以及结合[tools.pdf24.org](https://tools.pdf24.org/zh/webpage-to-pdf)制作《这本书》的PDF
+
+
 
 ### 获取更新
 
@@ -98,23 +86,7 @@ git commit -m "test"
 git push -u -f origin master  
 ```
 
-输入账号&密码即可上传到自己repo完成Github账户仓库远程更新。**更多作业指令操作说明，请看[Git 官方文档](https://git-scm.com/book/zh/v2)**
-
-<details><summary>更新图示 click me! </summary>
-
-![](https://i.postimg.cc/YSY78GPL/Snipaste-2019-06-12-15-59-16.png)
-
-![](https://i.postimg.cc/pTrZRztp/Snipaste-2019-06-12-16-40-01.png)
-
-部署测试
-
-![](https://i.postimg.cc/dV1tRjrW/Snipaste-2019-06-12-16-42-04.png)
-
-提交到repo
-
-![](https://i.postimg.cc/tRkjrVX8/Snipaste-2019-06-12-16-43-37.png)
-
-</details>
+输入账号&密码即可上传到自己repo完成Github账户仓库远程更新。
 
 
 
