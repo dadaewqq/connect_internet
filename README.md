@@ -42,7 +42,7 @@
 1. fork 《这本书》 到你的 repo
 2. 修改 docs/index.html 将`window.$docsify = {}` 的`repo` 修改成你的 repo
 3. 在 settings 找到 GitHub Pages 并选择 `master brach/docs folder` 
-4. 访问 `https://你的GitHub用户名.github.io/fq-book` 即可看到效果
+4. 访问 `https://你的GitHub用户名.github.io/how_network_works_book` 即可看到效果
 
 <details><summary>这里以 anhoodie 为示例 click me! </summary>
 
@@ -66,7 +66,7 @@
 
 * 右击选择`git bash`在命令行中输入 `npm i docsify-cli -g`
 * 点击`clone or download`下载`.zip` 并解压缩
-* 进入到`fq-book-master/docs`目录
+* 进入到`how_network_works_book-master/docs`目录
 * 右击打开`git bash`输入`docsify init .`
 * 使用`docsify serve`完成本地部署
 * 在浏览器中输入`localhost:3000`即可看到效果 :joy: 
@@ -80,9 +80,9 @@
 以01user为例，在本地部署时，旧版图链已经失效了，Ⅱ版已经采用 postimage 支持；此时就需升级成 《这本书Ⅱ》,获取更新其实非常简单，在fork的基础上，执行以下指令
 
 ```
-git clone https://github.com/你的github用户名/fq-book.git
-cd fq-book
-git remote add upstream https://github.com/hoodiearon/fq-book.git
+git clone https://github.com/你的github用户名/how_network_works_book.git
+cd 
+git remote add upstream https://github.com/hoodiearon/how_network_works_book.git
 # 若需必要的分支变更，还是使用合适： git fetch --all
 git fetch upstream
 # 对Git有所了解的话，建议还是使用：`git pull upstream master --allow-unrelated-histories` 以审查代码的形式更新
