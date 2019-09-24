@@ -5,9 +5,11 @@
 
 本书着重于上网的方式与获取信息的技巧，并对相关流行且典型的软件做简要的上手配置，以及原理的相关说明。
 
-* [导读](docs/README.md)
-* [目录](docs/_sidebar.md)
-* [后记](docs/postscript.md)
+
+
+[导读](docs/README.md)--------------------------------------------[目录](docs/_sidebar.md)---------------------------------------------------[后记](docs/postscript.md)
+
+
 
 **《这本书》示例的多数网址，以及更多资料收录在 [WebSiteOutlook](https://github.com/hoodiearon/WebSiteOutlook) ，书中的相关章节搭配存储库 `科学上网` 效果会更好！**
 
